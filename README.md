@@ -19,6 +19,6 @@ docker run -it -e AWS_ACCESS_KEY_ID=XXX \
 
 Use in a Jenkinsfile: https://github.com/releaseworks/jenkinslib#aws
 
-## Contributing
+## Contributing
 Please open a pull request.
 
